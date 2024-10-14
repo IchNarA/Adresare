@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndresarZadanie", "AndresarZadanie\AndresarZadanie.csproj", "{039C0372-CF56-46CF-B6FE-97F506A244F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB6747FB-C471-4C94-9C5C-EAE6907EFBA4}"
+	ProjectSection(SolutionItems) = preProject
+		AndresarZadanie\bin\Debug\folder.png = AndresarZadanie\bin\Debug\folder.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039C0372-CF56-46CF-B6FE-97F506A244F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039C0372-CF56-46CF-B6FE-97F506A244F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039C0372-CF56-46CF-B6FE-97F506A244F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039C0372-CF56-46CF-B6FE-97F506A244F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978C1CFE-716F-46E1-B373-545B632D95A7}
+	EndGlobalSection
+EndGlobal

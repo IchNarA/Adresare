@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\bin\Debug\AndresarZadanie.exe.config
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\bin\Debug\AndresarZadanie.exe
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\bin\Debug\AndresarZadanie.pdb
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.Form1.resources
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.Properties.Resources.resources
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.exe
+C:\Users\User\source\repos\AndresarZadanie\AndresarZadanie\obj\Debug\AndresarZadanie.pdb
